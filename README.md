@@ -1,4 +1,4 @@
-# msw_webrtc_crow
+# msw_webrtc_forest
 
 This repository was developed using WebRTC and a video capture board to stream video from the drone.
 In addition, it runs on a Raspberry Pi-based mission computer called CROW.
@@ -23,6 +23,6 @@ npm install
 "mission" : {
     "containor" : ["room_name"],
     "subcontainor" : ["Control"],
-    "git" : "https://github.com/IoTKETI/msw_webrtc_crow.git"
+    "git" : "https://github.com/IoTKETI/msw_webrtc_forest.git"
 }
 ```
